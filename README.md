@@ -5,7 +5,8 @@ a los usuarios ingresar nombres de amigos en una lista para luego realizar un so
 y determinar quién es el "amigo secreto"
 
 
-<b>Las funcionalidades que se necesitan son:<b>
+<strong>Las funcionalidades que se necesitan son:<strong>
+
 Agregar nombres: Los usuarios escribirán el nombre de un amigo en un campo de texto y 
 lo agregarán a una lista visible al hacer clic en "Adicionar".
 
